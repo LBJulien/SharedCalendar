@@ -1,0 +1,4 @@
+.view-cap, .view-container-border {
+    background-color: #FF9900;
+}
+
